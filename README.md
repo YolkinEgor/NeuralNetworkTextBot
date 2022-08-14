@@ -1,4 +1,4 @@
-# NeuralNetworkTextBot
+# NNTB Model
 
 #### Что это?
 
